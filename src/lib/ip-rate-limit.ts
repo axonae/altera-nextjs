@@ -2,7 +2,7 @@ import { initRateLimit, CountFn } from './rate-limit'
 import { upstashRest } from './upstash'
 
 export default function getIP(request: Request) {
-  const xff = request.headers.get('x-forwarded-for')
+  const xff = request.headers['x-forwarded-for']
   return xff ? xff.split(',')[0] : '127.0.0.1'
 }
 

@@ -1,0 +1,3380 @@
+[
+    {
+        "name": "WalletHub"
+    },
+    {
+        "name": "SMTP2GO"
+    },
+    {
+        "name": "BlaBla"
+    },
+    {
+        "name": "Avail"
+    },
+    {
+        "name": "Nike"
+    },
+    {
+        "name": "Netflix"
+    },
+    {
+        "name": "Cledara"
+    },
+    {
+        "name": "Meeff"
+    },
+    {
+        "name": "ViaApp / ViaVan"
+    },
+    {
+        "name": "OnJuno"
+    },
+    {
+        "name": "USPS"
+    },
+    {
+        "name": "Zumper"
+    },
+    {
+        "name": "Walmart"
+    },
+    {
+        "name": "Depop"
+    },
+    {
+        "name": "Bing"
+    },
+    {
+        "name": "DocuSign"
+    },
+    {
+        "name": "DTLR"
+    },
+    {
+        "name": "Omio"
+    },
+    {
+        "name": "Spotify"
+    },
+    {
+        "name": "BetCris"
+    },
+    {
+        "name": "Hushmail"
+    },
+    {
+        "name": "Vumber"
+    },
+    {
+        "name": "EpicNPC"
+    },
+    {
+        "name": "MoMo"
+    },
+    {
+        "name": "1Q"
+    },
+    {
+        "name": "Survey Junkie"
+    },
+    {
+        "name": "OpenPlayground"
+    },
+    {
+        "name": "Klook"
+    },
+    {
+        "name": "Ankama"
+    },
+    {
+        "name": "Personal Capital"
+    },
+    {
+        "name": "Acorns"
+    },
+    {
+        "name": "OpenNode"
+    },
+    {
+        "name": "Apple"
+    },
+    {
+        "name": "Eobot"
+    },
+    {
+        "name": "FindMate"
+    },
+    {
+        "name": "Gaintplay"
+    },
+    {
+        "name": "SEAGM"
+    },
+    {
+        "name": "Braid"
+    },
+    {
+        "name": "Nvidia"
+    },
+    {
+        "name": "Welspun Brain Trust"
+    },
+    {
+        "name": "Bitstamp"
+    },
+    {
+        "name": "Kids Foot Locker"
+    },
+    {
+        "name": "NAGATrader"
+    },
+    {
+        "name": "BTCDirect"
+    },
+    {
+        "name": "Jiayuan"
+    },
+    {
+        "name": "Immovlan"
+    },
+    {
+        "name": "Bitmax"
+    },
+    {
+        "name": "Mail2world"
+    },
+    {
+        "name": "Bidoo"
+    },
+    {
+        "name": "Ando"
+    },
+    {
+        "name": "FreeTaxUSA"
+    },
+    {
+        "name": "Ruten"
+    },
+    {
+        "name": "Starbucks"
+    },
+    {
+        "name": "Supreme"
+    },
+    {
+        "name": "VulkanVegas"
+    },
+    {
+        "name": "NerdWallet"
+    },
+    {
+        "name": "Hily"
+    },
+    {
+        "name": "Fotocasa"
+    },
+    {
+        "name": "Zenly"
+    },
+    {
+        "name": "Talk2"
+    },
+    {
+        "name": "DHL"
+    },
+    {
+        "name": "Vase"
+    },
+    {
+        "name": "PREMIER"
+    },
+    {
+        "name": "VivaWallet"
+    },
+    {
+        "name": "Kapten"
+    },
+    {
+        "name": "Bitlabs"
+    },
+    {
+        "name": "Twitch"
+    },
+    {
+        "name": "Ipsos iSay"
+    },
+    {
+        "name": "JAGRewards"
+    },
+    {
+        "name": "Donately"
+    },
+    {
+        "name": "Streetbeat"
+    },
+    {
+        "name": "Myspace"
+    },
+    {
+        "name": "KHL"
+    },
+    {
+        "name": "2RedBeans"
+    },
+    {
+        "name": "Pinterest"
+    },
+    {
+        "name": "Nielson"
+    },
+    {
+        "name": "Tokopedia"
+    },
+    {
+        "name": "FAIRTIQ"
+    },
+    {
+        "name": "Zoosk"
+    },
+    {
+        "name": "YourRentals"
+    },
+    {
+        "name": "Tilda"
+    },
+    {
+        "name": "Listia"
+    },
+    {
+        "name": "GrubHub"
+    },
+    {
+        "name": "Thumbtack"
+    },
+    {
+        "name": "Wild"
+    },
+    {
+        "name": "nearside"
+    },
+    {
+        "name": "Sam's Club"
+    },
+    {
+        "name": "FeaturePoints"
+    },
+    {
+        "name": "Asbucks"
+    },
+    {
+        "name": "AttaPoll"
+    },
+    {
+        "name": "CheckPoints"
+    },
+    {
+        "name": "Eloot.gg"
+    },
+    {
+        "name": "Locanto"
+    },
+    {
+        "name": "Nonolive"
+    },
+    {
+        "name": "Bukalapak"
+    },
+    {
+        "name": "Faberlic"
+    },
+    {
+        "name": "Esendex"
+    },
+    {
+        "name": "Turo"
+    },
+    {
+        "name": "Ad It Up"
+    },
+    {
+        "name": "GetSlide"
+    },
+    {
+        "name": "Ubisoft"
+    },
+    {
+        "name": "Glovo"
+    },
+    {
+        "name": "Microsoft Rewards"
+    },
+    {
+        "name": "Douban"
+    },
+    {
+        "name": "Shopkick"
+    },
+    {
+        "name": "Carepoynt"
+    },
+    {
+        "name": "BeForthRight"
+    },
+    {
+        "name": "Stash"
+    },
+    {
+        "name": "Boatsetter"
+    },
+    {
+        "name": "HomeAway"
+    },
+    {
+        "name": "Dubizzle"
+    },
+    {
+        "name": "FluxRewards"
+    },
+    {
+        "name": "GetPaidTo"
+    },
+    {
+        "name": "Twig"
+    },
+    {
+        "name": "Donut"
+    },
+    {
+        "name": "WapLog"
+    },
+    {
+        "name": "Tremolo"
+    },
+    {
+        "name": "Getir"
+    },
+    {
+        "name": "Azure"
+    },
+    {
+        "name": "Immobiliare"
+    },
+    {
+        "name": "QQTube"
+    },
+    {
+        "name": "Adobe"
+    },
+    {
+        "name": "Amasia"
+    },
+    {
+        "name": "HungryPanda"
+    },
+    {
+        "name": "Webull"
+    },
+    {
+        "name": "GameMiner.club"
+    },
+    {
+        "name": "TikTok"
+    },
+    {
+        "name": "Centrum"
+    },
+    {
+        "name": "myWisely"
+    },
+    {
+        "name": "Narvesen"
+    },
+    {
+        "name": "Octo"
+    },
+    {
+        "name": "Bitsa"
+    },
+    {
+        "name": "Porkbun"
+    },
+    {
+        "name": "Luckyland"
+    },
+    {
+        "name": "Wink"
+    },
+    {
+        "name": "YooMoney"
+    },
+    {
+        "name": "TurboTenant"
+    },
+    {
+        "name": "Shopee"
+    },
+    {
+        "name": "Tada"
+    },
+    {
+        "name": "TechBubble"
+    },
+    {
+        "name": "Mail Princess"
+    },
+    {
+        "name": "Mercado Libre"
+    },
+    {
+        "name": "Freelancer"
+    },
+    {
+        "name": "Gorillas"
+    },
+    {
+        "name": "Sneakerboy"
+    },
+    {
+        "name": "Parler"
+    },
+    {
+        "name": "IDES"
+    },
+    {
+        "name": "Novo"
+    },
+    {
+        "name": "UrbanClap"
+    },
+    {
+        "name": "MTC Game Portal"
+    },
+    {
+        "name": "ClubFactory"
+    },
+    {
+        "name": "LBRY App"
+    },
+    {
+        "name": "CuriousCat"
+    },
+    {
+        "name": "Community Insights Forum"
+    },
+    {
+        "name": "Purseio"
+    },
+    {
+        "name": "OnlyFans"
+    },
+    {
+        "name": "Scaleway"
+    },
+    {
+        "name": "Wyre"
+    },
+    {
+        "name": "Flurv"
+    },
+    {
+        "name": "Coupons.com"
+    },
+    {
+        "name": "BulkSMS.com"
+    },
+    {
+        "name": "Yalla"
+    },
+    {
+        "name": "MakePrintable"
+    },
+    {
+        "name": "Microsoft Office 365 E5"
+    },
+    {
+        "name": "Rebtel"
+    },
+    {
+        "name": "XS2Exchange"
+    },
+    {
+        "name": "Pleo"
+    },
+    {
+        "name": "Gamercraft"
+    },
+    {
+        "name": "Figure Eight"
+    },
+    {
+        "name": "Badoo"
+    },
+    {
+        "name": "LivU"
+    },
+    {
+        "name": "Miles & More"
+    },
+    {
+        "name": "Vinted"
+    },
+    {
+        "name": "Yieldstreet"
+    },
+    {
+        "name": "Blibli"
+    },
+    {
+        "name": "Zillow"
+    },
+    {
+        "name": "Earnly"
+    },
+    {
+        "name": "Quick Thoughts"
+    },
+    {
+        "name": "GG"
+    },
+    {
+        "name": "Kixify"
+    },
+    {
+        "name": "BIM"
+    },
+    {
+        "name": "Perk"
+    },
+    {
+        "name": "Musicstre.am"
+    },
+    {
+        "name": "Albert"
+    },
+    {
+        "name": "Strato"
+    },
+    {
+        "name": "CloudSim"
+    },
+    {
+        "name": "DateInAsia"
+    },
+    {
+        "name": "Cloudways"
+    },
+    {
+        "name": "Checkbook.io"
+    },
+    {
+        "name": "BTCsurveys"
+    },
+    {
+        "name": "Chevron"
+    },
+    {
+        "name": "Current Music"
+    },
+    {
+        "name": "Firebase"
+    },
+    {
+        "name": "Pruvit"
+    },
+    {
+        "name": "Idealista"
+    },
+    {
+        "name": "Current"
+    },
+    {
+        "name": "Cinchbucks"
+    },
+    {
+        "name": "MillionaireMatch"
+    },
+    {
+        "name": "Steam"
+    },
+    {
+        "name": "Telos"
+    },
+    {
+        "name": "Ayoba"
+    },
+    {
+        "name": "USA Survey"
+    },
+    {
+        "name": "Skype"
+    },
+    {
+        "name": "Weverse"
+    },
+    {
+        "name": "Zeek"
+    },
+    {
+        "name": "Aliexpress"
+    },
+    {
+        "name": "Lucky Play"
+    },
+    {
+        "name": "Steady"
+    },
+    {
+        "name": "Emirex"
+    },
+    {
+        "name": "DoorDash"
+    },
+    {
+        "name": "AdGate"
+    },
+    {
+        "name": "SMSit"
+    },
+    {
+        "name": "Wealthfront"
+    },
+    {
+        "name": "Idle-Empire"
+    },
+    {
+        "name": "TrueCaller"
+    },
+    {
+        "name": "TheFreeNet"
+    },
+    {
+        "name": "Bitsdaq"
+    },
+    {
+        "name": "Fruitz"
+    },
+    {
+        "name": "Spend"
+    },
+    {
+        "name": "Mistplay"
+    },
+    {
+        "name": "Airbnb"
+    },
+    {
+        "name": "MyGiftCardSupply"
+    },
+    {
+        "name": "Vendo"
+    },
+    {
+        "name": "Jobber"
+    },
+    {
+        "name": "GoSwak"
+    },
+    {
+        "name": "Miles & Reward"
+    },
+    {
+        "name": "Snap Kitchen"
+    },
+    {
+        "name": "Changelly"
+    },
+    {
+        "name": "DistroKid"
+    },
+    {
+        "name": "Mourjan"
+    },
+    {
+        "name": "Oracle"
+    },
+    {
+        "name": "Bithumb"
+    },
+    {
+        "name": "Grailed.com"
+    },
+    {
+        "name": "Mido"
+    },
+    {
+        "name": "RRF"
+    },
+    {
+        "name": "StarOfService"
+    },
+    {
+        "name": "Fruitlab"
+    },
+    {
+        "name": "Dana"
+    },
+    {
+        "name": "Jelli"
+    },
+    {
+        "name": "Sticker Mule"
+    },
+    {
+        "name": "Upwork"
+    },
+    {
+        "name": "White Calling"
+    },
+    {
+        "name": "Fave"
+    },
+    {
+        "name": "League of Legends"
+    },
+    {
+        "name": "Yandex"
+    },
+    {
+        "name": "Bumble"
+    },
+    {
+        "name": "Propy"
+    },
+    {
+        "name": "ProtonMail"
+    },
+    {
+        "name": "Ipekyol"
+    },
+    {
+        "name": "BDSwiss"
+    },
+    {
+        "name": "EveryoneAPI"
+    },
+    {
+        "name": "Current Rewards"
+    },
+    {
+        "name": "Simba"
+    },
+    {
+        "name": "Adidas"
+    },
+    {
+        "name": "Anibis"
+    },
+    {
+        "name": "LMK"
+    },
+    {
+        "name": "Shasso"
+    },
+    {
+        "name": "7Mall"
+    },
+    {
+        "name": "Thunderpod"
+    },
+    {
+        "name": "PODERcard"
+    },
+    {
+        "name": "ThinkOpinion"
+    },
+    {
+        "name": "RetailMeNot"
+    },
+    {
+        "name": "Dabbl"
+    },
+    {
+        "name": "ListYourself"
+    },
+    {
+        "name": "Grindr"
+    },
+    {
+        "name": "Instacart"
+    },
+    {
+        "name": "Google Merchant Center"
+    },
+    {
+        "name": "Easy as Tap"
+    },
+    {
+        "name": "Wingspan"
+    },
+    {
+        "name": "Autotrader"
+    },
+    {
+        "name": "LinkedIn"
+    },
+    {
+        "name": "TCGPlayer"
+    },
+    {
+        "name": "Zogo"
+    },
+    {
+        "name": "First Tech Federal Credit Union"
+    },
+    {
+        "name": "Apple Wallet"
+    },
+    {
+        "name": "BetMGM"
+    },
+    {
+        "name": "Earn Honey"
+    },
+    {
+        "name": "VoilaNorbert"
+    },
+    {
+        "name": "Meetup"
+    },
+    {
+        "name": "MoneyLion"
+    },
+    {
+        "name": "HappyPancake"
+    },
+    {
+        "name": "KeepRewarding.com"
+    },
+    {
+        "name": "Bitpanda"
+    },
+    {
+        "name": "Bitwage"
+    },
+    {
+        "name": "Vnay"
+    },
+    {
+        "name": "Wager Web"
+    },
+    {
+        "name": "SkyPrivate"
+    },
+    {
+        "name": "Gamekit"
+    },
+    {
+        "name": "EspressoHouse"
+    },
+    {
+        "name": "LibertyX"
+    },
+    {
+        "name": "SidelineSwap"
+    },
+    {
+        "name": "mixi"
+    },
+    {
+        "name": "Opinion World"
+    },
+    {
+        "name": "Wish"
+    },
+    {
+        "name": "OfferUp"
+    },
+    {
+        "name": "ZoomBucks"
+    },
+    {
+        "name": "Dingtone"
+    },
+    {
+        "name": "noon Shopping"
+    },
+    {
+        "name": "Yelp"
+    },
+    {
+        "name": "Affirm"
+    },
+    {
+        "name": "Societi"
+    },
+    {
+        "name": "Food Panda"
+    },
+    {
+        "name": "MyOpinions"
+    },
+    {
+        "name": "App Flame"
+    },
+    {
+        "name": "Amazon / Amazon Web Services"
+    },
+    {
+        "name": "Doublelist"
+    },
+    {
+        "name": "Tripadvisor"
+    },
+    {
+        "name": "Rambler"
+    },
+    {
+        "name": "Curtsy"
+    },
+    {
+        "name": "HotVOIP"
+    },
+    {
+        "name": "Rewarding Ways"
+    },
+    {
+        "name": "RiotGames"
+    },
+    {
+        "name": "Sonetel"
+    },
+    {
+        "name": "Kwai"
+    },
+    {
+        "name": "Vidio"
+    },
+    {
+        "name": "CarsGuide"
+    },
+    {
+        "name": "Kaggle"
+    },
+    {
+        "name": "Greggs"
+    },
+    {
+        "name": "Binance"
+    },
+    {
+        "name": "Shpock"
+    },
+    {
+        "name": "SEOClerks"
+    },
+    {
+        "name": "Shop at Home"
+    },
+    {
+        "name": "Tencent / QQ"
+    },
+    {
+        "name": "Yoti"
+    },
+    {
+        "name": "DeliveryClub"
+    },
+    {
+        "name": "Pointclub"
+    },
+    {
+        "name": "Bank Of America"
+    },
+    {
+        "name": "BlueAcorn"
+    },
+    {
+        "name": "YouGotaGift"
+    },
+    {
+        "name": "Serverfield"
+    },
+    {
+        "name": "ATM.com"
+    },
+    {
+        "name": "Hibbett"
+    },
+    {
+        "name": "GiftPocket"
+    },
+    {
+        "name": "Greenlight"
+    },
+    {
+        "name": "GradOutcome"
+    },
+    {
+        "name": "Ozan SuperApp"
+    },
+    {
+        "name": "Truth Social"
+    },
+    {
+        "name": "Google/Gmail"
+    },
+    {
+        "name": "RingCaptcha"
+    },
+    {
+        "name": "Ria Financial"
+    },
+    {
+        "name": "Indomaret"
+    },
+    {
+        "name": "FACEIT"
+    },
+    {
+        "name": "Youtube"
+    },
+    {
+        "name": "Digi2Go"
+    },
+    {
+        "name": "Fetch Rewards"
+    },
+    {
+        "name": "Weee!"
+    },
+    {
+        "name": "Public.com"
+    },
+    {
+        "name": "Boon"
+    },
+    {
+        "name": "MedLife"
+    },
+    {
+        "name": "ClickDishes"
+    },
+    {
+        "name": "Wynk"
+    },
+    {
+        "name": "KorekTelecom"
+    },
+    {
+        "name": "SnippetMedia"
+    },
+    {
+        "name": "Turgame"
+    },
+    {
+        "name": "InBoxPounds"
+    },
+    {
+        "name": "Plivo"
+    },
+    {
+        "name": "Workers Credit Union"
+    },
+    {
+        "name": "ClearVoice"
+    },
+    {
+        "name": "Maza"
+    },
+    {
+        "name": "BlockFi"
+    },
+    {
+        "name": "SurveyRewardz"
+    },
+    {
+        "name": "Youla"
+    },
+    {
+        "name": "BBVA"
+    },
+    {
+        "name": "Purse.io"
+    },
+    {
+        "name": "TaoBao"
+    },
+    {
+        "name": "Kik"
+    },
+    {
+        "name": "Pureprofile"
+    },
+    {
+        "name": "SendInBlue"
+    },
+    {
+        "name": "Globfone"
+    },
+    {
+        "name": "LalaFood"
+    },
+    {
+        "name": "Simplex / SimplexCC"
+    },
+    {
+        "name": "SnapKitchen"
+    },
+    {
+        "name": "Dota"
+    },
+    {
+        "name": "Zao"
+    },
+    {
+        "name": "Bolt"
+    },
+    {
+        "name": "Etsy"
+    },
+    {
+        "name": "Token"
+    },
+    {
+        "name": "TEMU"
+    },
+    {
+        "name": "MyRobinhood"
+    },
+    {
+        "name": "Blue Federal Credit Union"
+    },
+    {
+        "name": "G2G"
+    },
+    {
+        "name": "KakaoTalk"
+    },
+    {
+        "name": "TogetherPrice"
+    },
+    {
+        "name": "Flutterwave"
+    },
+    {
+        "name": "SBA"
+    },
+    {
+        "name": "Pinecone Research"
+    },
+    {
+        "name": "Step"
+    },
+    {
+        "name": "BloomMe"
+    },
+    {
+        "name": "SMSto"
+    },
+    {
+        "name": "PGSamsBuyGet"
+    },
+    {
+        "name": "Tokeneo"
+    },
+    {
+        "name": "FreeNow"
+    },
+    {
+        "name": "OhmConnect"
+    },
+    {
+        "name": "Bit4Sale"
+    },
+    {
+        "name": "Stir"
+    },
+    {
+        "name": "DollarClix"
+    },
+    {
+        "name": "Dollar General"
+    },
+    {
+        "name": "Mos"
+    },
+    {
+        "name": "Smores"
+    },
+    {
+        "name": "Switchere"
+    },
+    {
+        "name": "5miles"
+    },
+    {
+        "name": "LIHKG"
+    },
+    {
+        "name": "eGifter"
+    },
+    {
+        "name": "Inspire"
+    },
+    {
+        "name": "PopKonTv"
+    },
+    {
+        "name": "Adira"
+    },
+    {
+        "name": "LDSPlanet"
+    },
+    {
+        "name": "Signal"
+    },
+    {
+        "name": "Porte"
+    },
+    {
+        "name": "SAS"
+    },
+    {
+        "name": "MealPal"
+    },
+    {
+        "name": "Qube Money"
+    },
+    {
+        "name": "Craigslist"
+    },
+    {
+        "name": "Root"
+    },
+    {
+        "name": "DDosGuard"
+    },
+    {
+        "name": "BlueBird"
+    },
+    {
+        "name": "Dromru"
+    },
+    {
+        "name": "PropellerAds"
+    },
+    {
+        "name": "Gappx"
+    },
+    {
+        "name": "Microworkers"
+    },
+    {
+        "name": "Meesho"
+    },
+    {
+        "name": "Bitfront"
+    },
+    {
+        "name": "BlackPeopleMeet"
+    },
+    {
+        "name": "HQ Trivia"
+    },
+    {
+        "name": "Volny"
+    },
+    {
+        "name": "Poshmark"
+    },
+    {
+        "name": "SCRUFF"
+    },
+    {
+        "name": "Hago"
+    },
+    {
+        "name": "Eureka"
+    },
+    {
+        "name": "ADList24"
+    },
+    {
+        "name": "EpochTimes"
+    },
+    {
+        "name": "Gabi"
+    },
+    {
+        "name": "LynxWallet"
+    },
+    {
+        "name": "Propeller Ads"
+    },
+    {
+        "name": "Baselane"
+    },
+    {
+        "name": "Badi"
+    },
+    {
+        "name": "Esportal"
+    },
+    {
+        "name": "Wells Fargo"
+    },
+    {
+        "name": "Santander"
+    },
+    {
+        "name": "Beat"
+    },
+    {
+        "name": "Neuron"
+    },
+    {
+        "name": "TheHouseShop"
+    },
+    {
+        "name": "JD.ID"
+    },
+    {
+        "name": "360NRS"
+    },
+    {
+        "name": "Tier"
+    },
+    {
+        "name": "Nonoh"
+    },
+    {
+        "name": "Clickadu"
+    },
+    {
+        "name": "OpenPhone"
+    },
+    {
+        "name": "CatchMe"
+    },
+    {
+        "name": "Gameflip"
+    },
+    {
+        "name": "Hopper"
+    },
+    {
+        "name": "PCGameSupply"
+    },
+    {
+        "name": "BOSS Revolution Money"
+    },
+    {
+        "name": "ID.me"
+    },
+    {
+        "name": "QIP"
+    },
+    {
+        "name": "RLOVE"
+    },
+    {
+        "name": "Tagged"
+    },
+    {
+        "name": "Rover"
+    },
+    {
+        "name": "VarageSale"
+    },
+    {
+        "name": "Mailgun"
+    },
+    {
+        "name": "OZFlatMates"
+    },
+    {
+        "name": "Qoo10"
+    },
+    {
+        "name": "Mobilebet"
+    },
+    {
+        "name": "bitFlyer"
+    },
+    {
+        "name": "Douyu"
+    },
+    {
+        "name": "LoveAndSeek"
+    },
+    {
+        "name": "SurveyHoney"
+    },
+    {
+        "name": "Imfree"
+    },
+    {
+        "name": "Linode"
+    },
+    {
+        "name": "Swych"
+    },
+    {
+        "name": "CloudBet"
+    },
+    {
+        "name": "Yuno Surveys"
+    },
+    {
+        "name": "CARD.com"
+    },
+    {
+        "name": "HappyEscorts"
+    },
+    {
+        "name": "Yippi"
+    },
+    {
+        "name": "Snap Finance"
+    },
+    {
+        "name": "Doctoralia"
+    },
+    {
+        "name": "PingPong"
+    },
+    {
+        "name": "Pinchos"
+    },
+    {
+        "name": "Chime"
+    },
+    {
+        "name": "Instagram"
+    },
+    {
+        "name": "Keybase"
+    },
+    {
+        "name": "BitTube"
+    },
+    {
+        "name": "SweetRing"
+    },
+    {
+        "name": "Chowbus"
+    },
+    {
+        "name": "DilMil"
+    },
+    {
+        "name": "Flash Rewards"
+    },
+    {
+        "name": "Xbox"
+    },
+    {
+        "name": "Bovada"
+    },
+    {
+        "name": "LiveScore"
+    },
+    {
+        "name": "Snapchat"
+    },
+    {
+        "name": "Telnyx"
+    },
+    {
+        "name": "BMOHarris"
+    },
+    {
+        "name": "JollyChic"
+    },
+    {
+        "name": "Sinch"
+    },
+    {
+        "name": "Snapex"
+    },
+    {
+        "name": "Wingocard"
+    },
+    {
+        "name": "Bridge"
+    },
+    {
+        "name": "YoHo"
+    },
+    {
+        "name": "QuickBooks"
+    },
+    {
+        "name": "Ionicware"
+    },
+    {
+        "name": "Near"
+    },
+    {
+        "name": "ProOpinions"
+    },
+    {
+        "name": "Xfinity"
+    },
+    {
+        "name": "SoulAPP"
+    },
+    {
+        "name": "BitOasis"
+    },
+    {
+        "name": "PaidToReadEmail.com"
+    },
+    {
+        "name": "Empower"
+    },
+    {
+        "name": "DreamSpring"
+    },
+    {
+        "name": "Reonomy"
+    },
+    {
+        "name": "Autoru"
+    },
+    {
+        "name": "Bakkt"
+    },
+    {
+        "name": "Slips"
+    },
+    {
+        "name": "FetLife"
+    },
+    {
+        "name": "iOffer"
+    },
+    {
+        "name": "MyAuto"
+    },
+    {
+        "name": "JMTY"
+    },
+    {
+        "name": "OneDayRewards"
+    },
+    {
+        "name": "WeSing"
+    },
+    {
+        "name": "Souq"
+    },
+    {
+        "name": "Oportun"
+    },
+    {
+        "name": "RECUR"
+    },
+    {
+        "name": "1688"
+    },
+    {
+        "name": "ThaiFriendly"
+    },
+    {
+        "name": "Handy"
+    },
+    {
+        "name": "CVS"
+    },
+    {
+        "name": "VietJetAir"
+    },
+    {
+        "name": "Swagbucks / InboxDollars / MyPoints / ySense / ClassPass"
+    },
+    {
+        "name": "Nexmo"
+    },
+    {
+        "name": "MyTime"
+    },
+    {
+        "name": "CEX.IO"
+    },
+    {
+        "name": "DasherDirect"
+    },
+    {
+        "name": "SingleMuslim"
+    },
+    {
+        "name": "Google Voice"
+    },
+    {
+        "name": "BlueVine"
+    },
+    {
+        "name": "Melo"
+    },
+    {
+        "name": "Kaching"
+    },
+    {
+        "name": "StateFarm"
+    },
+    {
+        "name": "AdWallet"
+    },
+    {
+        "name": "Revel"
+    },
+    {
+        "name": "Elepreneur"
+    },
+    {
+        "name": "LuckyDino"
+    },
+    {
+        "name": "Uniplaces"
+    },
+    {
+        "name": "TodayAustralia"
+    },
+    {
+        "name": "Voopee"
+    },
+    {
+        "name": "Wedoogift"
+    },
+    {
+        "name": "ieadbit"
+    },
+    {
+        "name": "Link"
+    },
+    {
+        "name": "Yubo"
+    },
+    {
+        "name": "Zolve"
+    },
+    {
+        "name": "DigiStore"
+    },
+    {
+        "name": "iMoney"
+    },
+    {
+        "name": "Mamba"
+    },
+    {
+        "name": "Duffl"
+    },
+    {
+        "name": "Fotostrana"
+    },
+    {
+        "name": "BitClout"
+    },
+    {
+        "name": "Clickatell"
+    },
+    {
+        "name": "Upward"
+    },
+    {
+        "name": "TrulyMadly"
+    },
+    {
+        "name": "T-Mobile Money"
+    },
+    {
+        "name": "Nectar"
+    },
+    {
+        "name": "NCloud"
+    },
+    {
+        "name": "DunkinDonuts"
+    },
+    {
+        "name": "BotBroker"
+    },
+    {
+        "name": "PocketWin"
+    },
+    {
+        "name": "Play4"
+    },
+    {
+        "name": "Privacy"
+    },
+    {
+        "name": "HardBlock"
+    },
+    {
+        "name": "FedEx"
+    },
+    {
+        "name": "GamerMine"
+    },
+    {
+        "name": "Zhihu"
+    },
+    {
+        "name": "GoJek"
+    },
+    {
+        "name": "Doku"
+    },
+    {
+        "name": "BuyOnTrust"
+    },
+    {
+        "name": "Burner App"
+    },
+    {
+        "name": "Bundil"
+    },
+    {
+        "name": "Razer"
+    },
+    {
+        "name": "Weibo"
+    },
+    {
+        "name": "CheapVoip"
+    },
+    {
+        "name": "Flippa"
+    },
+    {
+        "name": "Immowelt"
+    },
+    {
+        "name": "Radial Insight"
+    },
+    {
+        "name": "Libon"
+    },
+    {
+        "name": "Lili"
+    },
+    {
+        "name": "CrazyKart"
+    },
+    {
+        "name": "Gemini"
+    },
+    {
+        "name": "ALTBalaji"
+    },
+    {
+        "name": "Blizzard"
+    },
+    {
+        "name": "Natural / Brain.ai"
+    },
+    {
+        "name": "Swyftx"
+    },
+    {
+        "name": "Cleo"
+    },
+    {
+        "name": "EngageSpark"
+    },
+    {
+        "name": "ByBit"
+    },
+    {
+        "name": "Houseparty"
+    },
+    {
+        "name": "Kikoff"
+    },
+    {
+        "name": "Vrbo"
+    },
+    {
+        "name": "NumeroeSIM"
+    },
+    {
+        "name": "OKru"
+    },
+    {
+        "name": "Pogo"
+    },
+    {
+        "name": "Quickie"
+    },
+    {
+        "name": "Microsoft"
+    },
+    {
+        "name": "Rooming"
+    },
+    {
+        "name": "Dora"
+    },
+    {
+        "name": "Ticketmaster"
+    },
+    {
+        "name": "Zomato"
+    },
+    {
+        "name": "ARMSLIST"
+    },
+    {
+        "name": "Roomster"
+    },
+    {
+        "name": "Earn99"
+    },
+    {
+        "name": "DailyRewards"
+    },
+    {
+        "name": "Chase"
+    },
+    {
+        "name": "Daybreak Games"
+    },
+    {
+        "name": "WeChat"
+    },
+    {
+        "name": "CrowdTap"
+    },
+    {
+        "name": "MintVine"
+    },
+    {
+        "name": "Lolli"
+    },
+    {
+        "name": "Atom"
+    },
+    {
+        "name": "Drop"
+    },
+    {
+        "name": "Flatmates"
+    },
+    {
+        "name": "Cheese"
+    },
+    {
+        "name": "OkCupid"
+    },
+    {
+        "name": "SkipTheDishes"
+    },
+    {
+        "name": "Online.net"
+    },
+    {
+        "name": "NETELLER"
+    },
+    {
+        "name": "RSocks"
+    },
+    {
+        "name": "Vanguard"
+    },
+    {
+        "name": "Eneba"
+    },
+    {
+        "name": "TurboTax"
+    },
+    {
+        "name": "Betfair"
+    },
+    {
+        "name": "ClipClaps"
+    },
+    {
+        "name": "Klover"
+    },
+    {
+        "name": "Posten"
+    },
+    {
+        "name": "Flink"
+    },
+    {
+        "name": "Aol"
+    },
+    {
+        "name": "EarningStation"
+    },
+    {
+        "name": "SayHi"
+    },
+    {
+        "name": "Booking.com"
+    },
+    {
+        "name": "Spryng"
+    },
+    {
+        "name": "Pinata"
+    },
+    {
+        "name": "Kufar"
+    },
+    {
+        "name": "Not Listed"
+    },
+    {
+        "name": "Roblox"
+    },
+    {
+        "name": "Finish Line"
+    },
+    {
+        "name": "Flipkart"
+    },
+    {
+        "name": "MapleSEA"
+    },
+    {
+        "name": "Letgo"
+    },
+    {
+        "name": "StormPlay"
+    },
+    {
+        "name": "Gueez"
+    },
+    {
+        "name": "GetTaxi"
+    },
+    {
+        "name": "MyTaxi"
+    },
+    {
+        "name": "FarmersOnly"
+    },
+    {
+        "name": "Discord"
+    },
+    {
+        "name": "Cabify"
+    },
+    {
+        "name": "OurTime"
+    },
+    {
+        "name": "T\u201ao Taxi"
+    },
+    {
+        "name": "JobToday"
+    },
+    {
+        "name": "CLiQQ"
+    },
+    {
+        "name": "Imo"
+    },
+    {
+        "name": "LunaNode"
+    },
+    {
+        "name": "Fold"
+    },
+    {
+        "name": "Bitonic"
+    },
+    {
+        "name": "Maxim"
+    },
+    {
+        "name": "ImmobilienScout24"
+    },
+    {
+        "name": "Promotion Pod"
+    },
+    {
+        "name": "VK"
+    },
+    {
+        "name": "Qmee.com"
+    },
+    {
+        "name": "CocaCola"
+    },
+    {
+        "name": "Flyp"
+    },
+    {
+        "name": "Talken"
+    },
+    {
+        "name": "USAA"
+    },
+    {
+        "name": "HUD"
+    },
+    {
+        "name": "ThisFate"
+    },
+    {
+        "name": "SheerID"
+    },
+    {
+        "name": "Facebook"
+    },
+    {
+        "name": "Careem"
+    },
+    {
+        "name": "BigToken"
+    },
+    {
+        "name": "UniqueCasino"
+    },
+    {
+        "name": "Pangea"
+    },
+    {
+        "name": "Zalo"
+    },
+    {
+        "name": "101Sweets"
+    },
+    {
+        "name": "Indi"
+    },
+    {
+        "name": "Foot Locker"
+    },
+    {
+        "name": "Plenty Of Fish"
+    },
+    {
+        "name": "Sezzle"
+    },
+    {
+        "name": "GagaooLala"
+    },
+    {
+        "name": "Boo"
+    },
+    {
+        "name": "Save With Surveys"
+    },
+    {
+        "name": "YFSResearch"
+    },
+    {
+        "name": "SteemIt"
+    },
+    {
+        "name": "Guru"
+    },
+    {
+        "name": "Botim"
+    },
+    {
+        "name": "Nordstrom "
+    },
+    {
+        "name": "2dehands"
+    },
+    {
+        "name": "DOSH"
+    },
+    {
+        "name": "SaverLife"
+    },
+    {
+        "name": "InboxLV"
+    },
+    {
+        "name": "Innago"
+    },
+    {
+        "name": "Target"
+    },
+    {
+        "name": "FortuneJack"
+    },
+    {
+        "name": "Indeed"
+    },
+    {
+        "name": "Mudflap"
+    },
+    {
+        "name": "Fluz"
+    },
+    {
+        "name": "Microsoft Azure"
+    },
+    {
+        "name": "Zen"
+    },
+    {
+        "name": "DeliveryHero"
+    },
+    {
+        "name": "GoDaddy"
+    },
+    {
+        "name": "TomaExchange"
+    },
+    {
+        "name": "Circle"
+    },
+    {
+        "name": "Humble Bundle"
+    },
+    {
+        "name": "iPoll"
+    },
+    {
+        "name": "Garena"
+    },
+    {
+        "name": "Wise"
+    },
+    {
+        "name": "Boxed Deal"
+    },
+    {
+        "name": "Burger King"
+    },
+    {
+        "name": "AH4R"
+    },
+    {
+        "name": "Kamatera"
+    },
+    {
+        "name": "Notify"
+    },
+    {
+        "name": "IONOS"
+    },
+    {
+        "name": "Strike"
+    },
+    {
+        "name": "uphold"
+    },
+    {
+        "name": "Genitrust"
+    },
+    {
+        "name": "Carousell"
+    },
+    {
+        "name": "Punktid"
+    },
+    {
+        "name": "Slide"
+    },
+    {
+        "name": "JD"
+    },
+    {
+        "name": "Credit Karma"
+    },
+    {
+        "name": "MailChimp"
+    },
+    {
+        "name": "Earnably"
+    },
+    {
+        "name": "Chispa"
+    },
+    {
+        "name": "e-Rewards"
+    },
+    {
+        "name": "LaPoste"
+    },
+    {
+        "name": "Credit Sesame"
+    },
+    {
+        "name": "Mode Earn"
+    },
+    {
+        "name": "Ultra"
+    },
+    {
+        "name": "EasyBucks"
+    },
+    {
+        "name": "GiftHunterClub"
+    },
+    {
+        "name": "Clover"
+    },
+    {
+        "name": "Ngage"
+    },
+    {
+        "name": "Quipp"
+    },
+    {
+        "name": "MeetMe"
+    },
+    {
+        "name": "BurgerKing"
+    },
+    {
+        "name": "InstaVoice"
+    },
+    {
+        "name": "Match"
+    },
+    {
+        "name": "Dent"
+    },
+    {
+        "name": "888poker"
+    },
+    {
+        "name": "Gifthulk"
+    },
+    {
+        "name": "Course Hero"
+    },
+    {
+        "name": "OneCasino"
+    },
+    {
+        "name": "AARP Rewards"
+    },
+    {
+        "name": "RentMe"
+    },
+    {
+        "name": "Walmart Family Mobile"
+    },
+    {
+        "name": "MrSpin"
+    },
+    {
+        "name": "CUA"
+    },
+    {
+        "name": "BurstSMS"
+    },
+    {
+        "name": "iRazoo"
+    },
+    {
+        "name": "As2in1"
+    },
+    {
+        "name": "KayoSports"
+    },
+    {
+        "name": "AppLovin"
+    },
+    {
+        "name": "Douugh"
+    },
+    {
+        "name": "Global Poker"
+    },
+    {
+        "name": "OptusSport"
+    },
+    {
+        "name": "Mrsool"
+    },
+    {
+        "name": "7-Eleven"
+    },
+    {
+        "name": "Mail.com"
+    },
+    {
+        "name": "Whop"
+    },
+    {
+        "name": "Google Business Profile"
+    },
+    {
+        "name": "Pionex"
+    },
+    {
+        "name": "Safeway / Albertsons"
+    },
+    {
+        "name": "Nifty Gateway"
+    },
+    {
+        "name": "OpenAI / ChatGPT"
+    },
+    {
+        "name": "Alignable"
+    },
+    {
+        "name": "Vertex"
+    },
+    {
+        "name": "SoFI"
+    },
+    {
+        "name": "Dave"
+    },
+    {
+        "name": "Waleteros"
+    },
+    {
+        "name": "Wickr"
+    },
+    {
+        "name": "MyBookie"
+    },
+    {
+        "name": "HiCloud"
+    },
+    {
+        "name": "Surf"
+    },
+    {
+        "name": "InstaRem"
+    },
+    {
+        "name": "Citizen"
+    },
+    {
+        "name": "Prezzee"
+    },
+    {
+        "name": "Agoda"
+    },
+    {
+        "name": "Chumba Casino"
+    },
+    {
+        "name": "Legiit"
+    },
+    {
+        "name": "Wolt"
+    },
+    {
+        "name": "Snagshout"
+    },
+    {
+        "name": "Upgrade"
+    },
+    {
+        "name": "MoolaDays"
+    },
+    {
+        "name": "My Voice"
+    },
+    {
+        "name": "AustraliaPost"
+    },
+    {
+        "name": "Hinge"
+    },
+    {
+        "name": "MozoX"
+    },
+    {
+        "name": "PUBGMOBILE"
+    },
+    {
+        "name": "Opinion Outpost"
+    },
+    {
+        "name": "MessageBird"
+    },
+    {
+        "name": "Survey Monkey Rewards"
+    },
+    {
+        "name": "Weebly"
+    },
+    {
+        "name": "Found"
+    },
+    {
+        "name": "Best Of Our Valley"
+    },
+    {
+        "name": "Mercari"
+    },
+    {
+        "name": "NTWRK"
+    },
+    {
+        "name": "WireBarley"
+    },
+    {
+        "name": "DesignHill"
+    },
+    {
+        "name": "Noona"
+    },
+    {
+        "name": "FastMail"
+    },
+    {
+        "name": "RedCircle"
+    },
+    {
+        "name": "Hmm"
+    },
+    {
+        "name": "Champs Sports"
+    },
+    {
+        "name": "RingCentral"
+    },
+    {
+        "name": "Tinder"
+    },
+    {
+        "name": "Potato Chat"
+    },
+    {
+        "name": "Bet9ja"
+    },
+    {
+        "name": "Paxful"
+    },
+    {
+        "name": "Dialpad"
+    },
+    {
+        "name": "Shopify"
+    },
+    {
+        "name": "Jackd"
+    },
+    {
+        "name": "BrandedSurvey"
+    },
+    {
+        "name": "Klarna"
+    },
+    {
+        "name": "Raise"
+    },
+    {
+        "name": "Authy"
+    },
+    {
+        "name": "Rizk"
+    },
+    {
+        "name": "Line2"
+    },
+    {
+        "name": "Zoho"
+    },
+    {
+        "name": "Bigolive"
+    },
+    {
+        "name": "CJS-CDKEYS.COM"
+    },
+    {
+        "name": "Microsoft Office 365 Education"
+    },
+    {
+        "name": "RI"
+    },
+    {
+        "name": "State Farm"
+    },
+    {
+        "name": "Yeeyi"
+    },
+    {
+        "name": "TD Ameritrade"
+    },
+    {
+        "name": "Hsoub"
+    },
+    {
+        "name": "MailRu"
+    },
+    {
+        "name": "Univision Mobile Money"
+    },
+    {
+        "name": "Flare"
+    },
+    {
+        "name": "OneMain Financial"
+    },
+    {
+        "name": "Baidu"
+    },
+    {
+        "name": "CPAGrip"
+    },
+    {
+        "name": "AccountKit"
+    },
+    {
+        "name": "Oobit"
+    },
+    {
+        "name": "3Fun"
+    },
+    {
+        "name": "SendGrid"
+    },
+    {
+        "name": "Mobile Man"
+    },
+    {
+        "name": "envel"
+    },
+    {
+        "name": "Brazzers"
+    },
+    {
+        "name": "OTCBTC"
+    },
+    {
+        "name": "Landingi"
+    },
+    {
+        "name": "MrGreen"
+    },
+    {
+        "name": "Alibaba"
+    },
+    {
+        "name": "Mowasalat"
+    },
+    {
+        "name": "Fidelity Investments"
+    },
+    {
+        "name": "Mico"
+    },
+    {
+        "name": "ChaosCloud"
+    },
+    {
+        "name": "Windows / Xbox Store"
+    },
+    {
+        "name": "Lalamove"
+    },
+    {
+        "name": "Square"
+    },
+    {
+        "name": "Yeezy"
+    },
+    {
+        "name": "Q Live"
+    },
+    {
+        "name": "Uber / Postmates"
+    },
+    {
+        "name": "Winden"
+    },
+    {
+        "name": "Stoqo"
+    },
+    {
+        "name": "OlaCabs"
+    },
+    {
+        "name": "Milk"
+    },
+    {
+        "name": "Zadarma"
+    },
+    {
+        "name": "Gopuff"
+    },
+    {
+        "name": "LiveTV"
+    },
+    {
+        "name": "GrabPoints"
+    },
+    {
+        "name": "Yocket"
+    },
+    {
+        "name": "ShopBack"
+    },
+    {
+        "name": "Elevacity"
+    },
+    {
+        "name": "Skyetel"
+    },
+    {
+        "name": "OVO"
+    },
+    {
+        "name": "Suds Car Wash\r\n"
+    },
+    {
+        "name": "Kink"
+    },
+    {
+        "name": "Grab"
+    },
+    {
+        "name": "eBay"
+    },
+    {
+        "name": "GOmobile"
+    },
+    {
+        "name": "Olx"
+    },
+    {
+        "name": "OpenSesame"
+    },
+    {
+        "name": "My Trainer Rewards"
+    },
+    {
+        "name": "Banggood"
+    },
+    {
+        "name": "Ding"
+    },
+    {
+        "name": "Kriptomat"
+    },
+    {
+        "name": "PaddyPower"
+    },
+    {
+        "name": "ICQ"
+    },
+    {
+        "name": "Google Play"
+    },
+    {
+        "name": "PinaLove"
+    },
+    {
+        "name": "Taxify"
+    },
+    {
+        "name": "SOAR"
+    },
+    {
+        "name": "Spruce"
+    },
+    {
+        "name": "G2A"
+    },
+    {
+        "name": "Offer Nation"
+    },
+    {
+        "name": "PollPass"
+    },
+    {
+        "name": "ClubVPS"
+    },
+    {
+        "name": "XSERVER"
+    },
+    {
+        "name": "Backblaze"
+    },
+    {
+        "name": "SugarDaddyMeet"
+    },
+    {
+        "name": "GetResponse"
+    },
+    {
+        "name": "Dosi"
+    },
+    {
+        "name": "Lyft"
+    },
+    {
+        "name": "Bitgames.io"
+    },
+    {
+        "name": "Oxygen"
+    },
+    {
+        "name": "RAM"
+    },
+    {
+        "name": "RBFCU"
+    },
+    {
+        "name": "ReRyde"
+    },
+    {
+        "name": "Sugarbook"
+    },
+    {
+        "name": "Betterment"
+    },
+    {
+        "name": "Magnit"
+    },
+    {
+        "name": "Sendwave"
+    },
+    {
+        "name": "BitClude"
+    },
+    {
+        "name": "Michat"
+    },
+    {
+        "name": "Betfred"
+    },
+    {
+        "name": "Angi"
+    },
+    {
+        "name": "HappyCo"
+    },
+    {
+        "name": "Lazada"
+    },
+    {
+        "name": "Digit"
+    },
+    {
+        "name": "GroupMe"
+    },
+    {
+        "name": "Fitplay"
+    },
+    {
+        "name": "Secret Benefits"
+    },
+    {
+        "name": "Broxel"
+    },
+    {
+        "name": "Juno"
+    },
+    {
+        "name": "Marcus"
+    },
+    {
+        "name": "Banxa"
+    },
+    {
+        "name": "ZoomInfo"
+    },
+    {
+        "name": "MOVO"
+    },
+    {
+        "name": "Fiverr"
+    },
+    {
+        "name": "UltraIO"
+    },
+    {
+        "name": "SwapD"
+    },
+    {
+        "name": "Deliveroo"
+    },
+    {
+        "name": "TaxSlayer"
+    },
+    {
+        "name": "Millions"
+    },
+    {
+        "name": "PlayerAuctions"
+    },
+    {
+        "name": "Whatnot"
+    },
+    {
+        "name": "Walmart Money Card"
+    },
+    {
+        "name": "Ritual.co"
+    },
+    {
+        "name": "Charles Schwab"
+    },
+    {
+        "name": "Blued"
+    },
+    {
+        "name": "Dundle"
+    },
+    {
+        "name": "Passbook"
+    },
+    {
+        "name": "LikeCard"
+    },
+    {
+        "name": "Bilt Rewards"
+    },
+    {
+        "name": "Green Dot Smart Home"
+    },
+    {
+        "name": "CELEBe"
+    },
+    {
+        "name": "Golden Farmery"
+    },
+    {
+        "name": "LiveTribe"
+    },
+    {
+        "name": "Coffee Meets Bagel"
+    },
+    {
+        "name": "MySpendWell"
+    },
+    {
+        "name": "Outlook"
+    },
+    {
+        "name": "Wafaicloud"
+    },
+    {
+        "name": "OYO"
+    },
+    {
+        "name": "Eastbay"
+    },
+    {
+        "name": "Hezzl"
+    },
+    {
+        "name": "M1 Finance"
+    },
+    {
+        "name": "Xapo"
+    },
+    {
+        "name": "Canada Computers"
+    },
+    {
+        "name": "Allset"
+    },
+    {
+        "name": "StormGain"
+    },
+    {
+        "name": "Luno"
+    },
+    {
+        "name": "Bet365"
+    },
+    {
+        "name": "Periscope"
+    },
+    {
+        "name": "Moco"
+    },
+    {
+        "name": "Skout"
+    },
+    {
+        "name": "Surveytime"
+    },
+    {
+        "name": "OffGamers"
+    },
+    {
+        "name": "Happn"
+    },
+    {
+        "name": "WooCommerce"
+    },
+    {
+        "name": "Gemiplay"
+    },
+    {
+        "name": "Walgreens"
+    },
+    {
+        "name": "Lomocall"
+    },
+    {
+        "name": "Filimo"
+    },
+    {
+        "name": "Opinions Outpost"
+    },
+    {
+        "name": "Telekom"
+    },
+    {
+        "name": "My Opinions"
+    },
+    {
+        "name": "MeWe"
+    },
+    {
+        "name": "Irazoo.com"
+    },
+    {
+        "name": "FoodPanda"
+    },
+    {
+        "name": "Mobihapp"
+    },
+    {
+        "name": "NBA Topshot"
+    },
+    {
+        "name": "Seis"
+    },
+    {
+        "name": "SumUp"
+    },
+    {
+        "name": "MailEE"
+    },
+    {
+        "name": "Cupis"
+    },
+    {
+        "name": "McMoney"
+    },
+    {
+        "name": "PartyPoker"
+    },
+    {
+        "name": "Chicks Gold Inc."
+    },
+    {
+        "name": "DiDi"
+    },
+    {
+        "name": "Chipotle"
+    },
+    {
+        "name": "Vets Prevail"
+    },
+    {
+        "name": "Confirmed"
+    },
+    {
+        "name": "Imgur"
+    },
+    {
+        "name": "Aspiration"
+    },
+    {
+        "name": "PaidViewpoint"
+    },
+    {
+        "name": "Harris Poll"
+    },
+    {
+        "name": "Mint"
+    },
+    {
+        "name": "WhatsAround"
+    },
+    {
+        "name": "RSGoldMine"
+    },
+    {
+        "name": "Marcel"
+    },
+    {
+        "name": "1StopMove"
+    },
+    {
+        "name": "TransformCredit"
+    },
+    {
+        "name": "Scout"
+    },
+    {
+        "name": "Yahoo"
+    },
+    {
+        "name": "Humm"
+    },
+    {
+        "name": "Nimses"
+    },
+    {
+        "name": "Ahead"
+    },
+    {
+        "name": "Caviar"
+    },
+    {
+        "name": "Octopus"
+    },
+    {
+        "name": "cdkeys.com"
+    },
+    {
+        "name": "Sea Gamer Mall"
+    },
+    {
+        "name": "KACN"
+    },
+    {
+        "name": "ViaBTC"
+    },
+    {
+        "name": "Vidaplayer"
+    },
+    {
+        "name": "Brex"
+    },
+    {
+        "name": "Bitmo"
+    },
+    {
+        "name": "BridgeCard"
+    },
+    {
+        "name": "MyLOL"
+    },
+    {
+        "name": "Ablo"
+    },
+    {
+        "name": "Seated"
+    },
+    {
+        "name": "HelloTalk"
+    },
+    {
+        "name": "AirTel"
+    },
+    {
+        "name": "EZ Texting"
+    },
+    {
+        "name": "Daum"
+    },
+    {
+        "name": "MyMusicTaste"
+    },
+    {
+        "name": "RocketReach"
+    },
+    {
+        "name": "Penfed"
+    },
+    {
+        "name": "MarcoPolo"
+    },
+    {
+        "name": "Glass.net"
+    },
+    {
+        "name": "Botcode"
+    },
+    {
+        "name": "Tapchamps"
+    },
+    {
+        "name": "X1CreditCard"
+    },
+    {
+        "name": "Prolific"
+    },
+    {
+        "name": "Bitso"
+    },
+    {
+        "name": "LiteIM"
+    },
+    {
+        "name": "clickworker"
+    },
+    {
+        "name": "AccountPatrol / MoneyPatrol"
+    },
+    {
+        "name": "Brandclub"
+    },
+    {
+        "name": "Mode Earn App"
+    },
+    {
+        "name": "Hunter"
+    },
+    {
+        "name": "OutSmart HPV"
+    },
+    {
+        "name": "Foodora"
+    },
+    {
+        "name": "VCollective"
+    },
+    {
+        "name": "EASI"
+    },
+    {
+        "name": "z.com"
+    },
+    {
+        "name": "Drumo"
+    },
+    {
+        "name": "NetZero"
+    },
+    {
+        "name": "Intuit"
+    },
+    {
+        "name": "Jeevan"
+    },
+    {
+        "name": "Eyecon"
+    },
+    {
+        "name": "Twitter"
+    },
+    {
+        "name": "Twoo"
+    },
+    {
+        "name": "Viber"
+    },
+    {
+        "name": "MessageDesk"
+    },
+    {
+        "name": "Poe"
+    },
+    {
+        "name": "Bitaccess"
+    },
+    {
+        "name": "GCLoot"
+    },
+    {
+        "name": "Rumble"
+    },
+    {
+        "name": "AppStation"
+    },
+    {
+        "name": "TanTan"
+    },
+    {
+        "name": "Aeldra"
+    },
+    {
+        "name": "NTTGame"
+    },
+    {
+        "name": "Glidera"
+    },
+    {
+        "name": "ParuVendu"
+    },
+    {
+        "name": "Bump"
+    },
+    {
+        "name": "Dinner Balls"
+    },
+    {
+        "name": "FanTuan"
+    },
+    {
+        "name": "Clubhouse"
+    },
+    {
+        "name": "Nextdoor"
+    },
+    {
+        "name": "Avito"
+    },
+    {
+        "name": "MySoapBox"
+    },
+    {
+        "name": "Microcenter"
+    },
+    {
+        "name": "Twilio"
+    },
+    {
+        "name": "CIBC"
+    },
+    {
+        "name": "Chipper"
+    },
+    {
+        "name": "Huawei"
+    },
+    {
+        "name": "Valued Opinions"
+    },
+    {
+        "name": "JePaiq"
+    },
+    {
+        "name": "Likee"
+    },
+    {
+        "name": "UpVoice"
+    },
+    {
+        "name": "NTWallet"
+    },
+    {
+        "name": "WatchiT"
+    },
+    {
+        "name": "MaChance"
+    },
+    {
+        "name": "Copper"
+    },
+    {
+        "name": "Bity"
+    },
+    {
+        "name": "Plaid"
+    },
+    {
+        "name": "One Finance"
+    },
+    {
+        "name": "BLK"
+    },
+    {
+        "name": "WhatsApp"
+    },
+    {
+        "name": "Curb"
+    },
+    {
+        "name": "iPlum"
+    },
+    {
+        "name": "NFCU"
+    },
+    {
+        "name": "Beetalk"
+    },
+    {
+        "name": "Battle.net"
+    },
+    {
+        "name": "2game"
+    },
+    {
+        "name": "AARP"
+    },
+    {
+        "name": "ViaBill"
+    },
+    {
+        "name": "Telegram"
+    },
+    {
+        "name": "Nuuly"
+    },
+    {
+        "name": "Line"
+    },
+    {
+        "name": "OneOpinion"
+    },
+    {
+        "name": "Dynadot"
+    },
+    {
+        "name": "Pei"
+    },
+    {
+        "name": "MoneyGram"
+    },
+    {
+        "name": "Streetbees"
+    },
+    {
+        "name": "Rewarded Play"
+    },
+    {
+        "name": "Blockchain"
+    },
+    {
+        "name": "DrugVokrug"
+    },
+    {
+        "name": "MobileMoney"
+    },
+    {
+        "name": "Green Dot / Go2Bank / GoBank"
+    },
+    {
+        "name": "Casumo"
+    },
+    {
+        "name": "ibotta"
+    },
+    {
+        "name": "Microsoft Office 365 Business"
+    },
+    {
+        "name": "Rizq"
+    },
+    {
+        "name": "America Voice"
+    },
+    {
+        "name": "Uplift"
+    },
+    {
+        "name": "Crypterium"
+    },
+    {
+        "name": "Atomy"
+    },
+    {
+        "name": "Giftcloud"
+    },
+    {
+        "name": "EarlyBird"
+    },
+    {
+        "name": "Pokec"
+    },
+    {
+        "name": "KUMU"
+    },
+    {
+        "name": "UOL"
+    },
+    {
+        "name": "Dapper"
+    },
+    {
+        "name": "A1Wallet"
+    },
+    {
+        "name": "Amazon Web Services"
+    },
+    {
+        "name": "Earnin"
+    },
+    {
+        "name": "Nielsen"
+    },
+    {
+        "name": "Sneakersnstuff"
+    },
+    {
+        "name": "SmarterASP"
+    }
+]
