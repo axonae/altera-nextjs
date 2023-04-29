@@ -9,8 +9,8 @@ export default function getIP(request: Request) {
 export const ipRateLimit = initRateLimit((request) => ({
   id: `ip:${getIP(request)}`,
   count: increment,
-  limit: 30,
-  timeframe: 60,
+  limit: 2,
+  timeframe: 10,
 }))
 
 const increment: CountFn = async ({ response, key, timeframe }) => {
