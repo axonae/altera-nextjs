@@ -7,13 +7,13 @@ import styles from '@/styles/Features.module.css'
 
 const Features = () => {
   return (
-    <div className="h-full py-32" id="features">
+    <div className="md:h-full md:py-32" id="features">
         <motion.h1 initial={{ opacity: 0, y: 200, scale: 0.5 }} viewport={{ once: true }}
         whileInView={{ opacity: 1, y: 0, scale: 1 }} transition={{ duration: 0.5 }}
         className="mb-12 text-5xl font-bold text-center text-white uppercase font-warp">
             An SMS platform built on your satisfaction
         </motion.h1>
-        <div className="w-full py-10 px-[10%] box-border ">
+        <div className="w-full md:py-10 md:px-[10%] box-border ">
             <div className="clear-both p-0 m-0 zoom-1 after:clear-both after:content-[''] after:table before:content-[''] before:table">
                 <motion.div initial={{ opacity: 0, x: -200,  y: 200, scale: 0.5 }} viewport={{ once: true }}
                 whileInView={{ opacity: 1, x: 0, y: 0, scale: 1 }} transition={{ duration: 0.5 }}
@@ -27,7 +27,7 @@ const Features = () => {
                 </motion.div>
                 <motion.div initial={{ opacity: 0, x: 200, y: 200, scale: 0.5 }} viewport={{ once: true }} 
                 whileInView={{ opacity: 1, x: 0, y: 0, scale: 1 }} transition={{ duration: 0.5 }}
-                className={`block box-border min-w-[380px] float-left my-[1%] mx-0 lg:my-[1%] lg:mr-0 lg:ml-[1.6%] first:ml-0 ${styles.span_1_of_2}`}>
+                className={`block box-border float-left my-[1%] mx-0 lg:my-[1%] lg:mr-0 lg:ml-[1.6%] first:ml-0 ${styles.span_1_of_2}`}>
                     <div className="relative z-10 select-none">
                         <div className="w-full h-auto duration-200 box-border hover:scale-[1.02] mt-30 mb-0 mx-auto">
                             <div className="shadow-bg w-[200px] sm:w-[250px] h-auto p-2.5 rounded inline-block bg-zinc-800 text-left">
@@ -61,7 +61,7 @@ const Features = () => {
                 </motion.div>
             </div>
         </div>
-        <div className="w-full -pt-12 -mt-12 px-[10%] box-border">
+        <div className="w-full md:-pt-12 md:-mt-12 px-[10%] box-border">
             <div className="flex flex-col lg:flex-row clear-both p-0 m-0 zoom-1 after:clear-both after:content-[''] after:table before:content-[''] before:table">
                 <motion.div initial={{ opacity: 0, x: -200, y: 200, scale: 0.5 }} viewport={{ once: true }} 
                 whileInView={{ opacity: 1, x: 0, y: 0, scale: 1 }} transition={{ duration: 0.5 }}
@@ -102,22 +102,22 @@ const Features = () => {
                 </motion.div>
             </div>
         </div>
-        <div className="w-full py-10 px-[10%] box-border">
-                <div className="flex-row hidden lg:flex clear-both p-0 m-0 zoom-1 after:clear-both after:content-[''] after:table before:content-[''] before:table">
-                    <motion.div initial={{ opacity: 0, x: -200, y: 200, scale: 0.5 }} viewport={{ once: true }} 
-                whileInView={{ opacity: 1, x: 0, y: 0, scale: 1 }} transition={{ duration: 0.5 }}
-                 className={`block box-border float-left my-[1%] mx-0 lg:my-[1%] lg:mr-0 lg:ml-[1.6%] first:ml-0 ${styles.span_1_of_2}`}>
-                        <div className="text-3xl font-extrabold text-white">
-                            Accepting Various Payment Methods
-                        </div>
-                        <div className="text-lg opacity-90 mt-2.5 font-light text-white  max-w-xl">
-                            To accomodate all our customer&apos;s needs, we accept payments from many popular gateways such as <strong className='font-bold'>Stripe</strong>, <strong className='font-bold'>PayPal</strong>, <strong className='font-bold'>CashApp</strong>, <strong className='font-bold'>Venmo</strong> and many <strong className='font-bold'>Cryptos</strong>.
-                        </div>
-                    </motion.div>
-                    <div className="mt-8 ml-32 animate-hover">
-                        <Cards />
+        <div className="w-full md:py-10 px-[10%] box-border hidden lg:flex">
+            <div className="flex-row clear-both p-0 m-0 zoom-1 after:clear-both after:content-[''] after:table before:content-[''] before:table">
+                <motion.div initial={{ opacity: 0, x: -200, y: 200, scale: 0.5 }} viewport={{ once: true }} 
+            whileInView={{ opacity: 1, x: 0, y: 0, scale: 1 }} transition={{ duration: 0.5 }}
+                className={`block box-border float-left my-[1%] mx-0 lg:my-[1%] lg:mr-0 lg:ml-[1.6%] first:ml-0 ${styles.span_1_of_2}`}>
+                    <div className="text-3xl font-extrabold text-white">
+                        Accepting Various Payment Methods
                     </div>
+                    <div className="text-lg opacity-90 mt-2.5 font-light text-white  max-w-xl">
+                        To accomodate all our customer&apos;s needs, we accept payments from many popular gateways such as <strong className='font-bold'>Stripe</strong>, <strong className='font-bold'>PayPal</strong>, <strong className='font-bold'>CashApp</strong>, <strong className='font-bold'>Venmo</strong> and many <strong className='font-bold'>Cryptos</strong>.
+                    </div>
+                </motion.div>
+                <div className="ml-32 lg:mt-8 animate-hover">
+                    <Cards />
                 </div>
+            </div>
         </div>
     </div>
   )

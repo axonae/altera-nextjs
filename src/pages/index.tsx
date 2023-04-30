@@ -13,7 +13,7 @@ export default function Home() {
       <section id="features" className='pt-5 -mt-5'>
         <Features />
       </section>
-      <section id="services" className="pt-56 -mt-48">
+      <section id="services" className="pt-0 -mt-0 md:-mt-48 md:pt-56">
         <Services />
       </section>
       <section id="purchase" className="">
