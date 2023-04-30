@@ -30,7 +30,7 @@ const Features = () => {
                 className={`block box-border min-w-[380px] float-left my-[1%] mx-0 lg:my-[1%] lg:mr-0 lg:ml-[1.6%] first:ml-0 ${styles.span_1_of_2}`}>
                     <div className="relative z-10 select-none">
                         <div className="w-full h-auto duration-200 box-border hover:scale-[1.02] mt-30 mb-0 mx-auto">
-                            <div className="shadow-bg w-[250px] h-auto p-2.5 rounded inline-block bg-zinc-800 text-left">
+                            <div className="shadow-bg w-[200px] sm:w-[250px] h-auto p-2.5 rounded inline-block bg-zinc-800 text-left">
                                 <div className="mb-1 text-xl font-semibold text-white font-neon ">Reviews</div>
                                 <a className="text-sm text-[#6B9FE7] font-neon duration-200 hover:text-[#5B6BD8]" href="https://discord.gg/wgSm3SayuR" target="_blank">
                                     See our Reviews
