@@ -4,6 +4,7 @@ import Image from 'next/image'
 import { motion } from 'framer-motion'
 import Cards from './Cards'
 import styles from '@/styles/Features.module.css'
+import Link from 'next/link'
 
 const Features = () => {
   return (
@@ -61,62 +62,34 @@ const Features = () => {
                 </motion.div>
             </div>
         </div>
-        <div className="w-full md:-pt-12 md:-mt-12 px-[10%] box-border">
+        <div className="w-full md:-pt-1 md:-mt-12 px-[10%] box-border">
             <div className="flex flex-col lg:flex-row clear-both p-0 m-0 zoom-1 after:clear-both after:content-[''] after:table before:content-[''] before:table">
                 <motion.div initial={{ opacity: 0, x: -200, y: 200, scale: 0.5 }} viewport={{ once: true }} 
                 whileInView={{ opacity: 1, x: 0, y: 0, scale: 1 }} transition={{ duration: 0.5 }}
                 className={`order-2 lg:order-1 block box-border float-left mt-4 mx-0 lg:mr-0 lg:ml-[1.6%] first:ml-0 ${styles.span_1_of_2}`}>
                     <div className="relative z-10 select-none">
-                        <div className="w-[280px] sm:w-[340px]">
-                            <div className="text-left mb-2.5">
-                                <div className="text-sm font-neon font-semibold text-[#6B9FE7] text-left">Staff</div>
-                                <div className="rounded-[5px] shadow-bg p-2 text-xs font-neon w-[170px] bg-zinc-800 text-left text-white">How can we help you?</div>
-                            </div>
-                            <div className="text-right float-right mb-2.5">
-                                <div className="text-sm font-neon font-semibold text-[#6B9FE7] text-left">Customer</div>
-                                <div className="font-neon rounded-[5px] shadow-bg p-2 text-xs w-[170px] bg-zinc-800 text-left text-white ">I can&apos;t figure out how to check my balance!</div>
-                            </div>
-                            <div className="float-left text-left sm:mt-16">
-                                <div className="text-sm font-neon font-semibold text-[#6B9FE7] text-left">Staff</div>
-                                <div className="font-neon rounded-[5px] shadow-bg p-2 text-xs w-[170px] bg-zinc-800 text-left text-white ">Try running the /balance command!</div>
-                            </div>
-                            <div className="xs:mt-[170px] mt-[160px] text-sm opacity-70 text-left font-neon font-semibold text-[#6B9FE7]"><span className={styles.saving}><span>.</span><span>.</span><span>.</span>
-                                    Staff is typing</span></div>
-                            <input className="box-border w-full p-2 text-sm text-left text-gray-800 border-none rounded outline-none font-neon shadow-bg bg-zinc-800 ring-0 focus:ring-0" placeholder="Message #ticket-customer" />
-                        </div>
+                        <Image src="/gin.png" alt='gin logo' width={200} height={200} className='mx-auto'/>
                     </div>
-                    <div className='relative'>
-                        <div className='chat_gradient'></div>
+                    <div className="relative select-none z-[7]">
+                        <Image src="/ipy.png" alt='i.py logo' width={200} height={200} className='absolute right-16 bottom-24'/>
+                    </div>
+                    <div className="relative select-none z-[7]">
+                        <Image src="/tailwind.png" alt='tailwind logo' width={200} height={200} className='absolute left-16 bottom-24'/>
+                    </div>
+                    <div className='relative lg:ml-32 md:ml-60 sm:ml-40 xs:ml-20'>
+                        <div className='chat_gradient '/>
                     </div>
                 </motion.div>
                 <motion.div initial={{ opacity: 0, x: 200, y: 200, scale: 0.5 }} viewport={{ once: true }} 
                 whileInView={{ opacity: 1, x: 0, y: 0, scale: 1 }} transition={{ duration: 0.5 }}
                 className={`order-1 lg:order-2 block box-border float-left my-[1%] mx-0 lg:my-[1%] lg:mr-0 lg:ml-[1.6%] first:ml-0 ${styles.span_1_of_2}`}>
                     <div className="mt-16 text-3xl font-extrabold text-white ">
-                        Great Support
+                        Strong Foundation. Built for reliability
                     </div>
-                    <div className="text-lg opacity-90 mt-2.5 font-light text-white ">With 24/7 availability and 
-                        personalized assistance, we ensure that our customers receive the attention they need 
-                        to resolve any issues they may encounter quickly and efficiently.
-                    </div>
-                </motion.div>
-            </div>
-        </div>
-        <div className="w-full md:py-10 px-[10%] box-border hidden lg:flex">
-            <div className="flex-row clear-both p-0 m-0 zoom-1 after:clear-both after:content-[''] after:table before:content-[''] before:table">
-                <motion.div initial={{ opacity: 0, x: -200, y: 200, scale: 0.5 }} viewport={{ once: true }} 
-            whileInView={{ opacity: 1, x: 0, y: 0, scale: 1 }} transition={{ duration: 0.5 }}
-                className={`block box-border float-left my-[1%] mx-0 lg:my-[1%] lg:mr-0 lg:ml-[1.6%] first:ml-0 ${styles.span_1_of_2}`}>
-                    <div className="text-3xl font-extrabold text-white">
-                        Accepting Various Payment Methods
-                    </div>
-                    <div className="text-lg opacity-90 mt-2.5 font-light text-white  max-w-xl">
-                        To accomodate all our customer&apos;s needs, we accept payments from many popular gateways such as <strong className='font-bold'>Stripe</strong>, <strong className='font-bold'>PayPal</strong>, <strong className='font-bold'>CashApp</strong>, <strong className='font-bold'>Venmo</strong> and many <strong className='font-bold'>Cryptos</strong>.
+                    <div className="text-lg opacity-90 mt-2.5 font-light text-white ">
+                        Our service is comprised of top tier frameworks made to last. Our API is written in Go using the <Link href="https://github.com/gin-gonic/gin" target="_blank" className="font-bold underline decoration-cyan-400 decoration-solid underline-offset-2 hover:underline-offset-4 duration-200 hover:text-[18.90px]">Gin HTTP web framework</Link> for speed and reliability; our website uses <Link href="https://nextjs.org/" target="_blank" className="font-bold underline decoration-blue-500 decoration-solid underline-offset-2 hover:underline-offset-4 duration-200 hover:text-[18.90px]">NextJS 13</Link> with Typescript and <Link href="https://tailwindcss.com/" target="_blank" className="font-bold underline decoration-sky-500 decoration-solid underline-offset-2 hover:underline-offset-4 duration-200 hover:text-[18.90px]">TailwindCSS</Link> along with the newly released app directory, and our discord bot is written in python using the <Link href="https://github.com/interactions-py/interactions.py" target="_blank" className="font-bold underline decoration-sky-700 decoration-solid underline-offset-2 hover:underline-offset-4 duration-200 hover:text-[18.90px]">interactions.py</Link> library!
                     </div>
                 </motion.div>
-                <div className="ml-32 lg:mt-8 animate-hover">
-                    <Cards />
-                </div>
             </div>
         </div>
     </div>

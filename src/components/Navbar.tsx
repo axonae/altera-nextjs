@@ -8,7 +8,7 @@ import Link from 'next/link'
 const Navbar = () => {
 
     return (
-        <nav className="sm:px-4 py-2.5 top-0 fixed w-full z-20 left-0 backdrop-saturate-[180%] backdrop-blur-[10px] shadow-[rgba(2,1,1,0.1)_0px_5px_20px_-5px]">
+        <nav className="sm:px-4 py-2.5 top-0 fixed w-full z-20 left-0 bg-500backdrop-saturate-[180%] backdrop-blur-[10px] shadow-[rgba(2,1,1,0.1)_0px_5px_20px_-5px]">
             <div className="flex flex-wrap items-center justify-between px-8">
                 <div className="flex items-center">
                     <Link href="/" className="flex items-center">
