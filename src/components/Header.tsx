@@ -31,7 +31,7 @@ const Header = () => {
                 <div className='relative'>
                     <div className='header_gradient'></div>
                 </div>
-                <iframe src="https://e.widgetbot.io/channels/1077426005876154398/1083911276822007808" height="400" width="600" className='relative'></iframe>
+                <iframe src="https://e.widgetbot.io/channels/1123119648670482474/1123134997180731465" height="400" width="600" className='relative'></iframe>
             </motion.div>
         </div>
     </div>

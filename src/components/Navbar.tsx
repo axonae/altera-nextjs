@@ -8,7 +8,7 @@ import Link from 'next/link'
 const Navbar = () => {
 
     return (
-        <nav className="sm:px-4 py-2.5 top-0 fixed w-full z-20 left-0 bg-500backdrop-saturate-[180%] backdrop-blur-[10px] shadow-[rgba(2,1,1,0.1)_0px_5px_20px_-5px]">
+        <nav className="sm:px-4 py-2.5 top-0 fixed w-full z-20 left-0 bg-500 backdrop-saturate-[180%] backdrop-blur-[10px] shadow-[rgba(2,1,1,0.1)_0px_5px_20px_-5px]">
             <div className="flex flex-wrap items-center justify-between px-8">
                 <div className="flex items-center">
                     <Link href="/" className="flex items-center">
@@ -40,7 +40,7 @@ const Navbar = () => {
                     <Link href="https://github.com/AlteraServices" target="_blank" className="text-[#6B7176] hover:text-[#3C3F43] text-xl pl-2 px-3 py-1 pt-2.5 text-center md:mr-0 duration-100">
                         <BsGithub />
                     </Link>
-                    <Link href="https://discord.gg/alterasms" target="_blank" className="text-[#6B7176] hover:text-[#3C3F43] text-xl pl-2 px-3 py-1 pt-2.5 text-center md:mr-0 duration-100">
+                    <Link href="https://discord.gg/n2WQH6DjQ6" target="_blank" className="text-[#6B7176] hover:text-[#3C3F43] text-xl pl-2 px-3 py-1 pt-2.5 text-center md:mr-0 duration-100">
                         <BsDiscord />
                     </Link>
                     <Link href="/tos" className="bg-[#333333] text-[#12181C]
