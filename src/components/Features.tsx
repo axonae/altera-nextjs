@@ -67,7 +67,7 @@ const Features = () => {
                 <motion.div initial={{ opacity: 0, x: -200, y: 200, scale: 0.5 }} viewport={{ once: true }} 
                 whileInView={{ opacity: 1, x: 0, y: 0, scale: 1 }} transition={{ duration: 0.5 }}
                 className={`order-2 lg:order-1 block box-border float-left mt-4 mx-0 lg:mr-0 lg:ml-[1.6%] first:ml-0 w-1/2`}>
-                    <div className="relative z-10 select-none">
+                    <div className="relative z-10 select-none rounded-3xl">
                         <Image src="/dpy.png" alt='gin logo' width={200} height={200} className='mx-auto'/>
                     </div>
                     <div className='relative lg:ml-32 md:ml-60 sm:ml-40 xs:ml-20'>
