@@ -63,18 +63,12 @@ const Features = () => {
             </div>
         </div>
         <div className="w-full md:-pt-1 md:-mt-12 px-[10%] box-border">
-            <div className="flex flex-col lg:flex-row clear-both p-0 m-0 zoom-1 after:clear-both after:content-[''] after:table before:content-[''] before:table">
+            <div className="flex flex-col lg:flex-row clear-both p-0 m-0 zoom-1 after:clear-both">
                 <motion.div initial={{ opacity: 0, x: -200, y: 200, scale: 0.5 }} viewport={{ once: true }} 
                 whileInView={{ opacity: 1, x: 0, y: 0, scale: 1 }} transition={{ duration: 0.5 }}
-                className={`order-2 lg:order-1 block box-border float-left mt-4 mx-0 lg:mr-0 lg:ml-[1.6%] first:ml-0 ${styles.span_1_of_2}`}>
+                className={`order-2 lg:order-1 block box-border float-left mt-4 mx-0 lg:mr-0 lg:ml-[1.6%] first:ml-0 w-1/2`}>
                     <div className="relative z-10 select-none">
-                        <Image src="/gin.png" alt='gin logo' width={200} height={200} className='mx-auto'/>
-                    </div>
-                    <div className="relative select-none z-[7]">
-                        <Image src="/ipy.png" alt='i.py logo' width={200} height={200} className='absolute right-16 bottom-24'/>
-                    </div>
-                    <div className="relative select-none z-[7]">
-                        <Image src="/tailwind.png" alt='tailwind logo' width={200} height={200} className='absolute left-16 bottom-24'/>
+                        <Image src="/dpy.png" alt='gin logo' width={200} height={200} className='mx-auto'/>
                     </div>
                     <div className='relative lg:ml-32 md:ml-60 sm:ml-40 xs:ml-20'>
                         <div className='chat_gradient '/>
@@ -82,12 +76,12 @@ const Features = () => {
                 </motion.div>
                 <motion.div initial={{ opacity: 0, x: 200, y: 200, scale: 0.5 }} viewport={{ once: true }} 
                 whileInView={{ opacity: 1, x: 0, y: 0, scale: 1 }} transition={{ duration: 0.5 }}
-                className={`order-1 lg:order-2 block box-border float-left my-[1%] mx-0 lg:my-[1%] lg:mr-0 lg:ml-[1.6%] first:ml-0 ${styles.span_1_of_2}`}>
+                className={`order-1 lg:order-2 block box-border float-left my-[1%] mx-0 lg:my-[1%] lg:mr-0 lg:ml-[1.6%] first:ml-0 `}>
                     <div className="mt-16 text-3xl font-extrabold text-white ">
                         Strong Foundation. Built for reliability
                     </div>
                     <div className="text-lg opacity-90 mt-2.5 font-light text-white ">
-                        Our service is comprised of top tier frameworks made to last. Our API is written in Go using the <Link href="https://github.com/gin-gonic/gin" target="_blank" className="font-bold underline decoration-cyan-400 decoration-solid underline-offset-2 hover:underline-offset-4 duration-200 hover:text-[18.90px]">Gin HTTP web framework</Link> for speed and reliability; our website uses <Link href="https://nextjs.org/" target="_blank" className="font-bold underline decoration-blue-500 decoration-solid underline-offset-2 hover:underline-offset-4 duration-200 hover:text-[18.90px]">NextJS 13</Link> with Typescript and <Link href="https://tailwindcss.com/" target="_blank" className="font-bold underline decoration-sky-500 decoration-solid underline-offset-2 hover:underline-offset-4 duration-200 hover:text-[18.90px]">TailwindCSS</Link> along with the newly released app directory, and our discord bot is written in python using the <Link href="https://github.com/interactions-py/interactions.py" target="_blank" className="font-bold underline decoration-sky-700 decoration-solid underline-offset-2 hover:underline-offset-4 duration-200 hover:text-[18.90px]">interactions.py</Link> library!
+                        Our service is comprised of top tier frameworks made to last. Our payments are managed by <Link href="https://sellix.io" target="_blank" className="font-bold underline decoration-indigo-800 decoration-solid underline-offset-2 hover:underline-offset-4 duration-200 hover:text-[18.90px]">sellix.io</Link> for reliability; our website uses <Link href="https://nextjs.org/" target="_blank" className="font-bold underline decoration-blue-500 decoration-solid underline-offset-2 hover:underline-offset-4 duration-200 hover:text-[18.90px]">NextJS 13</Link> with Typescript and <Link href="https://tailwindcss.com/" target="_blank" className="font-bold underline decoration-sky-500 decoration-solid underline-offset-2 hover:underline-offset-4 duration-200 hover:text-[18.90px]">TailwindCSS</Link> along with the newly released app directory, and our discord bot is written in python using the <Link href="https://github.com/Rapptz/discord.py" target="_blank" className="font-bold underline decoration-sky-700 decoration-solid underline-offset-2 hover:underline-offset-4 duration-200 hover:text-[18.90px]">discord.py</Link> library!
                     </div>
                 </motion.div>
             </div>
